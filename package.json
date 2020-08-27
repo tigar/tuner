@@ -1,0 +1,19 @@
+{
+  "name": "tuner",
+  "version": "0.1.0",
+  "description": "Spotify playlist exploration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigar/tuner.git"
+  },
+  "author": "Adam Tigar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tigar/tuner/issues"
+  },
+  "homepage": "https://github.com/tigar/tuner#readme"
+}
